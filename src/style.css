@@ -4,5 +4,6 @@ body {
 
 h1,
 p {
+  text-align: center;
   font-family: Lato;
 }
