@@ -3,8 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "add": "^2.0.6",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0",
+    "react-router-dom": "^5.2.0",
+    "yarn": "^1.22.10"
   },
   "scripts": {
     "start": "react-scripts start",
